@@ -1,0 +1,101 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/5z3endqr6rbxpgpyqpk7"
+#EXTINF:-1 tvg-id="AandE(East).us" tvg-name="AETVHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s51529_dark_360w_270h.png" group-title="Cable",A&E
+http://supersonictv.live:25461/017809/811629/22040
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMCHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10021_dark_360w_270h.png" group-title="Cable",AMC
+http://supersonictv.live:25461/017809/811629/22042
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="CCHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png" group-title="Cable",Comedy Central
+http://supersonictv.live:25461/017809/811629/22065
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBCAHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18332_dark_360w_270h.png" group-title="Cable",BBC America
+http://supersonictv.live:25461/017809/811629/22051
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOODHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12574_dark_360w_270h.png" group-title="Cable",Food Network
+http://supersonictv.live:25461/017809/811629/22084
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14321_dark_360w_270h.png" group-title="Cable",FX
+http://supersonictv.live:25461/017809/811629/22091
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="Cable",FXX
+http://supersonictv.live:25461/017809/811629/22094
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXMHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14988_dark_360w_270h.png" group-title="Cable",FXM
+http://supersonictv.live:25461/017809/811629/22093
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11163_dark_360w_270h.png" group-title="Cable",Paramount Network
+http://supersonictv.live:25461/017809/811629/22906
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="SONYHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s69130_dark_360w_270h.png" group-title="Cable",SONY
+http://supersonictv.live:25461/017809/811629/22917
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFYHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11097_dark_360w_270h.png" group-title="Cable",SYFY
+http://supersonictv.live:25461/017809/811629/22946
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBSHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58515_dark_360w_270h.png" group-title="Cable",TBS
+http://supersonictv.live:25461/017809/811629/22154
+#EXTINF:-1 tvg-id="TheLearningChannel.us" tvg-name="TLCHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11158_dark_360w_270h.png" group-title="Cable",TLC
+http://supersonictv.live:25461/017809/811629/22157
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNTHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11164_dark_360w_270h.png" group-title="Cable",TNT
+http://supersonictv.live:25461/017809/811629/22159
+#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="TRAVHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11180_dark_360w_270h.png" group-title="Cable",Travel Channel
+http://supersonictv.live:25461/017809/811629/22162
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USAHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11207_dark_360w_270h.png" group-title="Cable",USA Network
+http://supersonictv.live:25461/017809/811629/22174
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel
+http://supersonictv.live:25461/017809/811629/21795
+#EXTINF:-1 tvg-id="DisneyJuniorUS.us" tvg-name="DJCHHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",Disney Jr
+http://supersonictv.live:25461/017809/811629/21798
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DXDHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",DisneyXD
+http://supersonictv.live:25461/017809/811629/21801
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NIKHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon
+http://supersonictv.live:25461/017809/811629/21808
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NICJRHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",Nick Jr
+http://supersonictv.live:25461/017809/811629/21806
+#EXTINF:-1 tvg-id="NicktoonsNetwork.us" tvg-name="NIKTON" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30420_dark_360w_270h.png" group-title="Kids",Nicktoons
+http://supersonictv.live:25461/017809/811629/21809
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="TOONHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="Kids",Cartoon Network
+http://supersonictv.live:25461/017809/811629/21792
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOM" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
+http://supersonictv.live:25461/017809/811629/21791
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FNCHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16374_dark_360w_270h.png" group-title="News",Fox News Channel
+http://supersonictv.live:25461/017809/811629/21768
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FBNHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58649_dark_360w_270h.png" group-title="News",Fox Business
+http://supersonictv.live:25461/017809/811629/21769
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OANHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82542_dark_360w_270h.png" group-title="News",One America News
+http://supersonictv.live:25461/017809/811629/21784
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="NEWSMX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87925_dark_360w_270h.png" group-title="News",NewsMax
+http://supersonictv.live:25461/017809/811629/77589
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBOHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10240_dark_360w_270h.png" group-title="Movies",HBO
+http://supersonictv.live:25461/017809/811629/22894
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10241_dark_360w_270h.png" group-title="Movies",HBO2
+http://supersonictv.live:25461/017809/811629/22896
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBOCHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59839_dark_360w_270h.png" group-title="Movies",HBO Comedy
+http://supersonictv.live:25461/017809/811629/22897
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBOFHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16585_dark_360w_270h.png" group-title="Movies",HBO Family
+http://supersonictv.live:25461/017809/811629/22898
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBOSGHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59363_dark_360w_270h.png" group-title="Movies",HBO Signature
+http://supersonictv.live:25461/017809/811629/22900
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBOZHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59845_dark_360w_270h.png" group-title="Movies",HBO Zone
+http://supersonictv.live:25461/017809/811629/22901
+#EXTINF:-1 tvg-id="Epix.us" tvg-name="EPIXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65687_dark_360w_270h.png" group-title="Movies",EPIX
+http://supersonictv.live:25461/017809/811629/22886
+#EXTINF:-1 tvg-id="EPIX2.us" tvg-name="EPIX2HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73075_dark_360w_270h.png" group-title="Movies",EPIX2
+http://supersonictv.live:25461/017809/811629/22887
+#EXTINF:-1 tvg-id="EpixHits.us" tvg-name="EPIXHIT" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74073_dark_360w_270h.png" group-title="Movies",EPIX Hits
+http://supersonictv.live:25461/017809/811629/22889
+#EXTINF:-1 tvg-id="MoviesX.us" tvg-name="MAXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10120_dark_360w_270h.png" group-title="Movies",Cinemax
+http://supersonictv.live:25461/017809/811629/22879
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="MOMAXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59963_dark_360w_270h.png" group-title="Movies",MoreMax
+http://supersonictv.live:25461/017809/811629/22882
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ACMAXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59948_dark_360w_270h.png" group-title="Movies",ActionMax
+http://supersonictv.live:25461/017809/811629/22881
+#EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="THMAXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59954_dark_360w_270h.png" group-title="Movies",ThrillerMax
+http://supersonictv.live:25461/017809/811629/22885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIEHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59963_dark_360w_270h.png" group-title="Movies",MovieMax
+http://supersonictv.live:25461/017809/811629/22883
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5MAXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25620_dark_360w_270h.png" group-title="Movies",5StarMax
+http://supersonictv.live:25461/017809/811629/22878
+#EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="OUTERMAX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25622_dark_360w_270h.png" group-title="Movies",OuterMax
+http://supersonictv.live:25461/017809/811629/22884
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",SHOWTIME
+http://supersonictv.live:25461/017809/811629/22908
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHO2HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",SHO 2
+http://supersonictv.live:25461/017809/811629/22910
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="SHOWXHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",SHO EXTREME
+http://supersonictv.live:25461/017809/811629/22912
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="FAMZHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",SHOWTIME FAMILY ZONE
+http://supersonictv.live:25461/017809/811629/22913
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="NEXTHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25270_dark_360w_270h.png" group-title="Movies",SHO NEXT
+http://supersonictv.live:25461/017809/811629/22914
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="SHOCSHD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16153_dark_360w_270h.png" group-title="Movies",SHOWTIME SHOWCASE
+http://supersonictv.live:25461/017809/811629/22915
